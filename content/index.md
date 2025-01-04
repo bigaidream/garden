@@ -1,5 +1,5 @@
 ---
-title: Jie's Gardens
+title: Landing Page
 ---
 
 Jot down some public notes here. So one day, I can claim something like: "I said so xx years ago!" 🤡
