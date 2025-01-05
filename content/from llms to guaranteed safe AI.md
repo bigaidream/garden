@@ -6,7 +6,7 @@ date: 2024-12-29
 
 In "The Singularity is Near" (2005) and "The Singularity is Nearer" (2024), Ray Kurzweil predicts that AI will reach human-level intelligence by 2029 and examine the exponential growth of technology. Actually, there are some indicators appearing earlier than Ray's predicted timeline, which makes me seriously think about how should we, humans as a whole, respond and act. 
 ![](file-20250103164302287.png)
-LLMs won't lead to AGI (In early 2024, I thought it would, but not anymore), but other key innovations might be able to. In Francois Chollet's talk, [Pattern Recognition vs True Intelligence](https://www.youtube.com/watch?v=JTU8Ha4Jyfc), he emphasizes that intelligence is skill acquisition efficiency. However, most popular benchmarks focus on if the model can memorize[^1] and generalize in a limited[^2] and point-wise manner[^3] from the training data set to the test set. Humans are lousy at memorizing lots of facts at once, but LLMs are good at this, which is quite misleading. It seems that people are all rushing for manually filling the infinitely many holes of a knowledge/reasoning honeycomb based on human labelling. 
+LLMs won't lead to AGI (In early 2024, I thought it would, but not anymore), but other key innovations might be able to. In Francois Chollet's talk[^13], [Pattern Recognition vs True Intelligence](https://www.youtube.com/watch?v=JTU8Ha4Jyfc), he emphasizes that intelligence is skill acquisition efficiency. However, most popular benchmarks focus on if the model can memorize[^1] and generalize in a limited[^2] and point-wise manner[^3] from the training data set to the test set. Humans are lousy at memorizing lots of facts at once, but LLMs are good at this, which is quite misleading. It seems that people are all rushing for manually filling the infinitely many holes of a knowledge/reasoning honeycomb based on human labelling. 
 
 Lawrence Paulson summarizes that[^4]: 
 - Deductive reasoning: deriving specific conclusions by pure reasoning from axioms; the basis of mathematics; perfect and infallible
@@ -33,3 +33,4 @@ Therefore, we should focus on scaling up search and learning[^11] for the proper
 [^10]: https://arxiv.org/abs/0704.0646, # The Mathematical Universe
 [^11]: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 [^12]: https://leshouches2022.github.io/SLIDES/compressed-yann-1.pdf
+[^13]: https://www.youtube.com/watch?v=JTU8Ha4Jyfc, Pattern Recognition vs True Intelligence
