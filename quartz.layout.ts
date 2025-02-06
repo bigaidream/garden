@@ -22,7 +22,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/bigaidream/garden",
+      "GitHub Source": "https://github.com/bigaidream/garden",
       "Jie's Homepage": "https://bigaidream.github.io/",
     },
   }),
