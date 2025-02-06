@@ -1,5 +1,5 @@
 ---
-title: Shifting Focus from LLMs to Autoformalization and Formally Verifiable AI
+title: Focusing on Autoformalization and Formally Verifiable AI
 date: 2024-12-29
 ---
 > Updated: 2025-01-03
