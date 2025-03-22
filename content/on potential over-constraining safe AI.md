@@ -18,7 +18,7 @@ But nobody really knows the exact boundary, and even given these limitations, it
 
 Note that, for if meaningful general predictions are to be possible, it must at  some level be the case that the system making the predictions be able  to outrun the system it is trying to predict[^3]. It might imply that eventually, the auditing system must use more compute than the underlying auditee.  
 
-The downside of a over-constraining system including a formal verifier might introduce cancerous state[^4]. 
+The downside of a over-constraining system with a formal verifier is that it might introduce cancerous state[^4]. 
 
 > Cells become cancerous when isolated from the collective informational structure, reverting to primitive transcriptional behaviour. We show that, in the context of our formalism, failure states like cancer occur when systems are too tightly constrained by the abstraction layer in which they exist. 
 
