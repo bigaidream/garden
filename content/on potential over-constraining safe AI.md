@@ -2,7 +2,7 @@
 title: On Potential Over-Constraining for Safe AI
 date: 2025-01-13
 ---
-> Updated: 2025-03-22
+> Created: 2025-01-13
 
 OpenAI o1 and DeepSeek R1 might perform program synthesis in natural language CoT or latent space. "Fuzzy pattern matching"[^1] mechanism (based on informal language) can serve as the low layers, and the abstract mathematical reasoning acts as the high layers. 
 

@@ -2,7 +2,7 @@
 title: Focusing on Autoformalization and Formally Verifiable AI
 date: 2024-12-29
 ---
-> Updated: 2025-01-03
+> Created: 2024-12-29
 
 In "The Singularity is Near" (2005) and "The Singularity is Nearer" (2024), Ray Kurzweil predicts that AI will reach human-level intelligence by 2029 and examine the exponential growth of technology. Actually, there are some indicators appearing earlier than Ray's predicted timeline, which makes me seriously think about how should we, humans as a whole, respond and act. 
 ![](file-20250103164302287.png)
