@@ -24,10 +24,11 @@ But this does not seem enough. The downside of a over-constraining system with a
 
 > The idea of a “rogue AI” from within this system is analogous to cancer, adopting an “unsafe” policy at odds with that of the collective. However if we view this system as MCA, then tight regulations may over-constrain the system trigger the cancerous state they are meant to prevent.
 
-It seems to me that multi-agent systems should be part of the solution, which can improve the resiliency a lot. 
+It seems to me that multi-agent systems (could be related to culture[^5]) should be part of the solution, which can improve the resiliency a lot. 
 
 ---
 [^1]: https://x.com/fchollet/status/1865567233373831389
 [^2]: https://www.lesswrong.com/posts/DZuBHHKao6jsDDreH/in-response-to-critiques-of-guaranteed-safe-ai
 [^3]: A New Kind of Science, Page-741
 [^4]: Are Biological Systems More Intelligent Than  Artificial Intelligence?, https://arxiv.org/abs/2405.02325
+[^5]: The Cultural Brain Hypothesis: How culture drives brain expansion, sociality, and life history, https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006504
