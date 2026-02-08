@@ -5,25 +5,11 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [
-    Component.Comments({
-      provider: 'giscus',
-      options: {
-        // from data-repo
-        repo: 'bigaidream/garden',
-        // from data-repo-id
-        repoId: 'R_kgDONlp_tA',
-        // from data-category
-        category: 'Announcements',
-        // from data-category-id
-        categoryId: 'DIC_kwDONlp_tM4Clt3n',
-      }
-    }),
-  ],
+  afterBody: [],
   footer: Component.Footer({
     links: {
-      "GitHub Source": "https://github.com/bigaidream/garden",
-      "Jie's Homepage": "https://bigaidream.github.io/",
+      GitHub: "https://github.com/jackyzha0/quartz",
+      "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
